@@ -1,0 +1,22 @@
+.review {
+    width: 80%;
+    padding: 0 15px;
+    position: relative;
+    left: 10%;
+    top: 50px;
+    display: grid;
+    grid-template-columns: repeat(2, 47%);
+    grid-gap: 40px;
+    color: white;
+}
+
+.reviewsTitle {
+    color: white;
+    position: relative;
+    top: 40px;
+    width: 400px;
+    padding: 8px 50px;
+    text-align: center;
+    font-size: 2em;
+    background-image: linear-gradient(to right, #1C69EC, #6BA1FD, #fff  );
+}
